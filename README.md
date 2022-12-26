@@ -1,4 +1,4 @@
-# fivem-discord-bot
+# konijs.com
 
 https://konijs.com
 
